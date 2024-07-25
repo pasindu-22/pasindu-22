@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pasindu-22
+- 👋 Hi, I’m @pasindu
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Software projects
