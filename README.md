@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasindu
-- 👀 I’m interested in Computer Engineering
+- 👀 I’m interested in Systems Development
 - 🌱 I’m currently studying. 
 - 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me - pasindusathsara60@gmail.com
