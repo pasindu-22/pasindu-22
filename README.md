@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pasindu
 - 👀 Software Engineering at central.
 - 🌱 I’m currently learning microservices architecture.
-- 👽 Interested in Platform Engineering.
-- 💞️ Looking to collaborate on Software projects
+- 👽 Interested in devops Engineering.
+- 💞️ Looking to collaborate on Software projects.
 - 📫 How to reach me - pasindusathsara60@gmail.com
 - 😄 Pronouns: he/him
 
